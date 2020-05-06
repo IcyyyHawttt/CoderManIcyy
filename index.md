@@ -2,14 +2,16 @@
 <html>
   <head>
     <meta charset="utf-8">
-    Welcome to my totally amazing website
     
     <style>
     .Contact {
     color:Red;
     </style>
     
+    
+    Welcome to my totally amazing website
     </head>
+   
     
   <body>
    
