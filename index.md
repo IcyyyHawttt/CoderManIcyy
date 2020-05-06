@@ -2,6 +2,23 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Welcome to my totally amazing website</title>
+    Welcome to my totally amazing website<
     </head>
-  <body></body>
+  <body>
+   
+   <p>How to contact me: Discord; Icy#4893 Twitter; HottIcyy/60fpsmemes Github; IcyyyHawttt</p>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   </body>
