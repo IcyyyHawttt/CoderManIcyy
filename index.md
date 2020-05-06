@@ -2,12 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-     <style>
-    .Contact {
-    rgb:200,200,200;
-    </style>
     
-    </head>
+    
+ 
    Welcome to my totally amazing website
    
     
