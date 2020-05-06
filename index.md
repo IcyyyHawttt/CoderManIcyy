@@ -2,11 +2,18 @@
 <html>
   <head>
     <meta charset="utf-8">
-    Welcome to my totally amazing website<
+    Welcome to my totally amazing website
+    
+    <style>
+    .Contact {
+    color:Red;
+    </style>
+    
     </head>
+    
   <body>
    
-   <p>How to contact me: Discord; Icy#4893 Twitter; HottIcyy/60fpsmemes Github; IcyyyHawttt</p>
+   <p class="Contact">How to contact me: Discord; Icy#4893 Twitter; HottIcyy/60fpsmemes Github; IcyyyHawttt</p>
    
    
    
