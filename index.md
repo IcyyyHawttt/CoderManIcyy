@@ -5,7 +5,7 @@
     
     <style>
     .Contact {
-    color:Red;
+    color:Red;}
     </style>
     
     
